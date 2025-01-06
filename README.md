@@ -7,11 +7,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 🔭 I’m currently working on Java mini projects
 - 🌱 I’m currently learning Spring boot
 - 👯 I’m looking to collaborate on java
-- 🤔 I’m looking for help with devlopment
+- 🤔 I’m looking for help with devlopment 
 - 💬 Ask me about java
 - 📫 How to reach me: [reddyindra843@gmail.com]
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: [A Fun]
 
 ## 🛠️ Technologies & Tools
 
@@ -32,7 +31,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/indrareddy333)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/indrareddy333)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:your.email@example.com)
 
 Thank you for visiting my profile!
