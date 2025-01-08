@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ![Indra's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrareddy333&show_icons=true&theme=radical)
 
-### Weekly Activity Graph 📊
-![Indra's Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=default)
+### Daily Active Commits Graph 📊
+![Daily Active Commits](https://streak-stats.demolab.com?user=indrareddy333&theme=default)
 
 
 ## 📫 Connect with Me
